@@ -20,14 +20,14 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: output/metrics.base.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: header, activity, community, repositories, metadata
         
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
         filename: output/details.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_languages: yes
         plugin_languages_ignored: >-
@@ -41,7 +41,7 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: output/metrics.plugin.achievements.compact.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_achievements: yes
         plugin_achievements_only: >-
