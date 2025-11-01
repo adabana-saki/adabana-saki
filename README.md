@@ -13,6 +13,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/adabana-saki/adabana-saki/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```python
@@ -79,30 +89,36 @@ class BackendEngineer:
 
 <div align="center">
 
-### 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/adabana-saki/adabana-saki/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-### 📈 Activity Overview
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adabana-saki&theme=github_dark)
-
-</div>
-
-<div align="center">
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=adabana-saki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabana-saki&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
-## 🎨 Advanced Metrics
+## 🎨 3D Contribution Graph
 
 <div align="center">
 
-### 📊 Detailed Metrics & Achievements
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+  <img alt="3d contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+</picture>
+
+</div>
+
+## 🏆 Trophies & Streak
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=adabana-saki&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adabana-saki&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+</div>
+
+## 📈 Detailed Activity Metrics
+
+<div align="center">
 
 <p align="center">
   <picture>
@@ -117,47 +133,7 @@ class BackendEngineer:
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <img alt="github achievements" src="output/metrics.plugin.achievements.compact.svg" width="400" />
-  </picture>
-</p>
-
-### 🎨 3D Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-    <img alt="3d contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-  </picture>
-</p>
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=adabana-saki&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-## 📈 Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adabana-saki&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
-## 📝 Latest from Qiita
-
-<div align="center">
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](http://qiita.com/adabana-saki)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/adabana-saki/contributions.svg)](http://qiita.com/adabana-saki)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adabana-saki&theme=github_dark)
 
 </div>
 
@@ -181,6 +157,15 @@ class BackendEngineer:
 | 🐳 **DevOps** | Docker, Kubernetes, CI/CD | ⚡ Active |
 | 🔧 **Automation** | Python, Power Automate, Selenium | ⚡ Active |
 | 🤖 **Bot Development** | Discord.py, asyncpg, REST APIs | ⚡ Active |
+
+</div>
+
+## 📝 Latest from Qiita
+
+<div align="center">
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](http://qiita.com/adabana-saki)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/adabana-saki/contributions.svg)](http://qiita.com/adabana-saki)
 
 </div>
 
