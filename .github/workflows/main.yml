@@ -20,6 +20,7 @@ jobs:
         filename: output/metrics.base.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: header, activity, community, repositories, metadata
+        repositories_affiliations: owner, collaborator, organization_member
         
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
@@ -34,6 +35,7 @@ jobs:
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
+        repositories_affiliations: owner, collaborator, organization_member
         
     - name: Compact display
       uses: lowlighter/metrics@latest
@@ -47,3 +49,4 @@ jobs:
           scripter, packager, explorer, infographile, manager
         plugin_achievements_display: compact
         plugin_achievements_threshold: X
+        repositories_affiliations: owner, collaborator, organization_member
