@@ -47,31 +47,62 @@ class BackendEngineer:
 <div align="center">
 
 ### Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,js,flask,fastapi,discord)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### AI & Data Science
-![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### DevOps & Tools
-![My Skills](https://skillicons.dev/icons?i=docker,git,postgres,azure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
 ### Currently Learning
-![My Skills](https://skillicons.dev/icons?i=kubernetes,react,nodejs)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
-## 📊 GitHub Advanced Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 ### 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/adabana-saki/adabana-saki/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/adabana-saki/adabana-saki/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 <div align="center">
 
-### 📈 Detailed Metrics
+### 📈 Activity Overview
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adabana-saki&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adabana-saki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabana-saki&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+## 🎨 Advanced Metrics
+
+<div align="center">
+
+### 📊 Detailed Metrics & Achievements
 
 <p align="center">
   <picture>
@@ -86,7 +117,6 @@ class BackendEngineer:
   </picture>
 </p>
 
-### 🏆 Achievements
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
@@ -106,36 +136,7 @@ class BackendEngineer:
 
 </div>
 
-## 📉 Standard GitHub Stats
-
-<div align="center">
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adabana-saki&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adabana-saki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabana-saki&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
-<div align="center">
-
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adabana-saki&theme=github_dark)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adabana-saki&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adabana-saki&theme=github_dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adabana-saki&theme=github_dark&utcOffset=9)
-
-</div>
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
@@ -151,7 +152,7 @@ class BackendEngineer:
 
 </div>
 
-## 📝 Latest Qiita Posts
+## 📝 Latest from Qiita
 
 <div align="center">
 
