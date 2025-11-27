@@ -1,18 +1,11 @@
 <div align="center">
 
-<!-- ===== HEADER ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=adabana-saki&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Bot%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50)
+# adabana-saki
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%90%8D+Python+Developer+from+Japan;%F0%9F%A4%96+Building+Bots+%26+Automation;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning)](https://git.io/typing-svg)
+**Backend Engineer | Bot Developer | AI Enthusiast**
 
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=adabana-saki&style=for-the-badge&color=58a6ff&labelColor=161b22&label=VISITORS)
-[![Followers](https://img.shields.io/github/followers/adabana-saki?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff)](https://github.com/adabana-saki?tab=followers)
-
-<!-- Social Links -->
-[![X](https://img.shields.io/badge/-@adasaki__159tech-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adasaki_159tech)
-[![Qiita](https://img.shields.io/badge/-adabana--saki-0d1117?style=for-the-badge&logo=qiita&logoColor=55C500)](https://qiita.com/adabana-saki)
+[![X](https://img.shields.io/twitter/follow/adasaki_159tech?style=social)](https://x.com/adasaki_159tech)
+[![Qiita](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](https://qiita.com/adabana-saki)
 
 </div>
 
