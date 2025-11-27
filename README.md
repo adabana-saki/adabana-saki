@@ -197,15 +197,6 @@ me = BackendEngineer()
 
 </div>
 
-<!-- ===== QUOTE ===== -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Thought%20Balloon.png" alt="Quote" width="28" /> Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 <!-- ===== FOOTER ===== -->
 <div align="center">
 
