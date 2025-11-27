@@ -1,8 +1,10 @@
 <div align="center">
 
-# adabana-saki
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=adabana-saki&fontSize=60&fontAlignY=35&animation=twinkling&desc=Backend%20Engineer%20|%20Bot%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
-**Backend Engineer | Bot Developer | AI Enthusiast**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+Bots+%26+Automation;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" /></a>
+
+<br/>
 
 [![X](https://img.shields.io/twitter/follow/adasaki_159tech?style=social)](https://x.com/adasaki_159tech)
 [![Qiita](https://qiita-badge.apiapi.app/s/adabana-saki/posts.svg)](https://qiita.com/adabana-saki)
