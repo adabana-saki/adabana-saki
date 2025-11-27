@@ -1,34 +1,18 @@
 <div align="center">
 
 <!-- ===== HEADER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=adabana-saki&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Bot%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=adabana-saki&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Bot%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=55&descAlign=50)
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%90%8D+Python+Developer+from+Japan;%F0%9F%A4%96+Building+Bots+%26+Automation;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
-</a>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%90%8D+Python+Developer+from+Japan;%F0%9F%A4%96+Building+Bots+%26+Automation;%F0%9F%A7%A0+Exploring+AI+%26+Machine+Learning)](https://git.io/typing-svg)
 
 <!-- Profile Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adabana-saki&style=for-the-badge&color=58a6ff&labelColor=161b22&label=VISITORS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/adabana-saki?tab=followers">
-    <img src="https://img.shields.io/github/followers/adabana-saki?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff" alt="Followers"/>
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=adabana-saki&style=for-the-badge&color=58a6ff&labelColor=161b22&label=VISITORS)
+[![Followers](https://img.shields.io/github/followers/adabana-saki?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff)](https://github.com/adabana-saki?tab=followers)
 
 <!-- Social Links -->
-<p>
-  <a href="https://x.com/adasaki_159tech">
-    <img src="https://img.shields.io/badge/-@adasaki_159tech-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  &nbsp;
-  <a href="https://qiita.com/adabana-saki">
-    <img src="https://img.shields.io/badge/-adabana--saki-0d1117?style=for-the-badge&logo=qiita&logoColor=55C500" alt="Qiita"/>
-  </a>
-</p>
+[![X](https://img.shields.io/badge/-@adasaki__159tech-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adasaki_159tech)
+[![Qiita](https://img.shields.io/badge/-adabana--saki-0d1117?style=for-the-badge&logo=qiita&logoColor=55C500)](https://qiita.com/adabana-saki)
 
 </div>
 
