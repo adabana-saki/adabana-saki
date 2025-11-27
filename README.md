@@ -12,10 +12,10 @@
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=adabana-saki&style=for-the-badge&color=0d1117&labelColor=0d1117&label=VISITORS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=adabana-saki&style=for-the-badge&color=58a6ff&labelColor=161b22&label=VISITORS" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/adabana-saki?tab=followers">
-    <img src="https://img.shields.io/github/followers/adabana-saki?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=0d1117" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/adabana-saki?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=58a6ff" alt="Followers"/>
   </a>
 </p>
 
@@ -45,12 +45,12 @@ class BackendEngineer:
     @property
     def skills(self):
         return {
-            "languages": ["Python", "JavaScript"],
-            "backend": ["Flask", "FastAPI", "Discord.py"],
+            "languages": ["Python", "JavaScript", "TypeScript", "Kotlin", "Go"],
+            "backend": ["Flask", "Django", "FastAPI", "Discord.py"],
             "ai_ml": ["TensorFlow", "PyTorch", "scikit-learn"],
             "data": ["Pandas", "NumPy", "Matplotlib"],
             "devops": ["Docker", "Git", "PostgreSQL"],
-            "cloud": ["Oracle Cloud", "Azure"]
+            "cloud": ["Oracle Cloud", "Vercel", "Cloudflare"]
         }
 
     @property
@@ -67,13 +67,13 @@ me = BackendEngineer()
 
 <!-- Skill Icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,fastapi,tensorflow,pytorch&theme=dark" alt="Languages & Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,go,flask,django,fastapi&theme=dark" alt="Languages & Frameworks"/>
 </a>
 
 <br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,postgres,azure,discord,selenium&theme=dark" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,postgres,vercel,cloudflare,discord&theme=dark" alt="Tools & Platforms"/>
 </a>
 
 <br/><br/>
@@ -84,12 +84,12 @@ me = BackendEngineer()
 
 | Category | Technologies |
 |:--------:|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) |
 | **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **Cloud** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 | **Learning** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 </details>
