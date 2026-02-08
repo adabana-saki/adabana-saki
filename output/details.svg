@@ -110,13 +110,13 @@
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.9016393442622951" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="0.9016393442622951" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="0.9016393442622951" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.9016393442622951" y="0" width="7.213114754098361" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="8.114754098360656" y="0" width="11.721311475409836" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="19.83606557377049" y="0" width="184.8360655737705" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="204.672131147541" y="0" width="15.327868852459016" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.8870967741935484" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0.8870967741935484" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0.8870967741935484" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.8870967741935484" y="0" width="7.096774193548387" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="7.983870967741935" y="0" width="11.53225806451613" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="19.516129032258064" y="0" width="185.40322580645162" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="204.9193548387097" y="0" width="15.080645161290322" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -135,7 +135,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">222 <small>merged</small></span>
+                                <span class="no-wrap">226 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="111.58067412944283" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="111.58067412944283" y="0" width="99.24397296914672" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="210.82464709858957" y="0" width="96.80719511755841" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="307.631842216148" y="0" width="75.30647616287203" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.93831837902" y="0" width="41.40814804141916" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="424.3464664204392" y="0" width="19.002912677476886" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="443.3493790979161" y="0" width="11.819621326797051" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.16900042471315" y="0" width="4.830999575286891" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="111.00603333009532" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="111.00603333009532" y="0" width="104.17493932057072" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="215.18097265066606" y="0" width="96.55707600158051" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="311.73804865224656" y="0" width="73.27374696322691" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.0117956154735" y="0" width="40.28707817615278" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="425.29887379162625" y="0" width="18.488434398136825" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="443.78730818976305" y="0" width="11.512485045040236" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="455.2997932348033" y="0" width="4.700206765196676" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -221,20 +221,20 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.63 MB</div>
-                                <div>24.26%</div>
+                                <div>4.74 MB</div>
+                                <div>24.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.02 MB</div>
-                                <div>21.05%</div>
+                                <div>4.12 MB</div>
+                                <div>20.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,7 +246,7 @@
                             </div>
                             <small>
                                 <div>1.72 MB</div>
-                                <div>9%</div>
+                                <div>8.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,8 +257,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>490 kB</div>
-                                <div>2.57%</div>
+                                <div>491 kB</div>
+                                <div>2.5%</div>
                             </small>
                         </div>
                     </section>
@@ -266,13 +266,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                Python
                             </div>
                             <small>
-                                <div>4.12 MB</div>
-                                <div>21.57%</div>
+                                <div>4.45 MB</div>
+                                <div>22.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             </div>
                             <small>
                                 <div>3.13 MB</div>
-                                <div>16.37%</div>
+                                <div>15.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,7 +296,7 @@
                             </div>
                             <small>
                                 <div>789 kB</div>
-                                <div>4.13%</div>
+                                <div>4.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -308,7 +308,7 @@
                             </div>
                             <small>
                                 <div>200 kB</div>
-                                <div>1.05%</div>
+                                <div>1.02%</div>
                             </small>
                         </div>
                     </section>
